@@ -1,0 +1,26 @@
+{
+
+	"tasks": [
+
+		{
+
+			"task": "main",
+
+			"files": [
+
+				"src/main/Main.java",
+				"src/main/Window.java"
+
+			],
+
+			"dependencies": [],
+
+			"natives": "lib/natives",
+
+			"classfiles": "bin"
+
+		}
+
+	]
+
+}
